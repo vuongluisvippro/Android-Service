@@ -20,5 +20,3 @@ Command line:
     - [GUI] URL_Bar/Material Design Color Palette/.. +> Custom Theme Editor
     - [GUI] ../servicelawrence => ../servicelawrence.view(such as custom,...)
     
-
-<p>Some Markdown text with <span style="color:#000000">some <em>blue</em> text</span>.</p>
