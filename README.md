@@ -15,5 +15,11 @@ Command line:
 
     - [GUI] URL_Bar/Material Design Color Palette/.. +> Custom Theme Editor
     - [GUI] ../servicelawrence => ../servicelawrence.view(such as custom,...)
+    
+    ```ruby
+    require 'redcarpet'
+    markdown = Redcarpet.new("Hello World!")
+    puts markdown.to_html
+    ```
 
 <p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
