@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:splitMotionEvents">false</item>
+        <item name="android:windowEnableSplitTouch">false</item>
+        <item name="android:textViewStyle">@style/VGFontStyleTextView</item>
+        <item name="android:editTextStyle">@style/VGFontStyleEditText</item>
+    </style>
+
+    <style name="VGFontStyleTextView" parent="android:Widget.TextView">
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <style name="VGFontStyleEditText" parent="android:Widget.EditText">
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
