@@ -1,6 +1,7 @@
 # Android-Service
-## Command line
-> - **Getting Started**
+## Getting Started(#getting-started)
+## Reference[#reference]
+# Getting Started
 >> - [ ] [Setting up new Project](#setting-up-new-project)
 >>> - [x] [Custom font](#custom-font)
 >>> - [x] [Custom theme](#custom-theme)
@@ -15,7 +16,7 @@ Command line:
     - [GUI] URL_Bar/Material Design Color Palette/.. +> Custom Theme Editor
     - [GUI] ../servicelawrence => ../servicelawrence.view(such as custom,...)
     
-## Reference
+# Reference
 > - [ ](Build Theme Structure)(#build-theme-structure)
 
 # Build Theme Structure)
