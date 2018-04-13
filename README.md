@@ -1,6 +1,6 @@
 # Android-Service
-## Getting Started(#getting-started)
-## Reference[#reference]
+## [Getting Started](#getting-started)
+## [Reference][#reference]
 # Getting Started
 >> - [ ] [Setting up new Project](#setting-up-new-project)
 >>> - [x] [Custom font](#custom-font)
